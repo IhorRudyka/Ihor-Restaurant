@@ -24,7 +24,7 @@ h1.name {
     font-size: 100px;
 }
 .header-section {
-    background-image: url(/images/intro-bg.jpg);
+    background-image: url(images/intro-bg.jpg);
     background-size: cover;
 }
 .fader {
