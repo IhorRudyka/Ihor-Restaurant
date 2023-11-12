@@ -115,7 +115,13 @@
     }
     .specials-wrapper {
         margin-top: 3vh;
-        display: block;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .special-image {
+        margin-left: 5%;
+        width: 90%;
     }
     .story-section {
         flex-direction: column-reverse;
